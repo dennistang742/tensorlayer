@@ -1,0 +1,3 @@
+[submodule "example/srgan"]
+	path = example/srgan
+	url = https://github.com/tensorlayer/srgan
